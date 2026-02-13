@@ -118,4 +118,4 @@ A dominância estratégica resulta da combinação entre tecnologia, integraçã
 - Aumento da produtividade e eficiência  
 - Melhoria contínua da qualidade  
 - Maior previsibilidade operacional  
-- Sustentabilidade e competitividade na Indústria 4.0  
+- Sustentabilidade e competitividade na Indústria 4.0 .
